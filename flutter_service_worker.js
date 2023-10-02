@@ -3,8 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "6af5824ace7cd275f61ce5fb25ef157e",
+  "assets/AssetManifest.json": "8d4edfe064a0bc10494a3b11cc0f1ec8",
 "assets/assets/pfp.jpeg": "35efd8d2b0457836ccaed0476822dd77",
+"assets/assets/pfp2.jpeg": "7366f030bbf22693602577519aaaf78d",
 "assets/assets/tinder.png": "187534c839ab5f7b9e182b8c3e3e7e57",
 "assets/assets/tindertext.png": "35129a548cd6b97aa8fa441018f73a4d",
 "assets/FontManifest.json": "e2b96c74db6b1897030b872181e44fee",
@@ -26,9 +27,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "7b9c163508f18931304400fd3b58a473",
-"/": "7b9c163508f18931304400fd3b58a473",
-"main.dart.js": "2e4718366cdfcf08ffc0a0d9ff132ada",
+"index.html": "7a896462d14b0cfe245a5df5116f7c37",
+"/": "7a896462d14b0cfe245a5df5116f7c37",
+"main.dart.js": "535dc5ef5230abf182199d6a092f241a",
 "manifest.json": "bf24c84c3bf99672a631c4f84464e793",
 "version.json": "15235b5108d6a877ef74fe3317a96bf7"
 };
